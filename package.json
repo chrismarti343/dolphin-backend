@@ -1,0 +1,25 @@
+{
+  "name": "dolphin-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismarti343/dolphin-backend.git"
+  },
+  "author": "chris, lakera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismarti343/dolphin-backend/issues"
+  },
+  "homepage": "https://github.com/chrismarti343/dolphin-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
